@@ -1,3 +1,4 @@
+
 ﻿# 213027_-16_5-GALLOS-FINOS
 This repository is for the creation of a video game, for the Unad Video Game Programming course 16
 
@@ -39,3 +40,7 @@ Soy una persona muy proactiva que le gusta crear cualquier tipo de contenido dig
 ### 💼 Experiencia  
 👉 [Portafolio de Juegos](https://juegossurve.wixsite.com/surve/juegos-y-apps-1)  
 📌 **35 Juegos Creados**
+=======
+# 213027_-16_5-GALLOS-FINOS
+This repository is for the creation of a video game, for the Unad Video Game Programming course
+
