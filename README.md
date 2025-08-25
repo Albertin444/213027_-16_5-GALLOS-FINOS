@@ -44,7 +44,6 @@ Soy una persona muy proactiva que le gusta crear cualquier tipo de contenido dig
 📌 **35 Juegos Creados**
 =======
 
----
 
 ## Photo Profile.
 <img src="/Gustavo Adolfo Ruiz León/Photo Profile.jpg " alt="Photo by Gustavo Adolfo Ruiz León" with="800" height="600" loading="lazy">
@@ -58,6 +57,7 @@ Soy una persona muy proactiva que le gusta crear cualquier tipo de contenido dig
 ### Brief Profile.
 I am a proactive person with large capacity to assume great challenges and take them happy terms. I have multiple knowledge in different multimedia fields; I like to be ambitious and passionate in what I do; hence I worry try hard so that all get out the more perfect as possible. I have ease to be creative and the capacity to assume leadership when I am assigning the roll or when the different projects they demand it, like also I can abide suggestions or orders, hence I can lead, integrate or abide in any collaborative work of multimedia projects.    
 
+=======
 
 # 213027_-16_5-GALLOS-FINOS
 This repository is for the creation of a video game, for the Unad Video Game Programming course
