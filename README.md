@@ -56,7 +56,33 @@ Soy una persona muy proactiva que le gusta crear cualquier tipo de contenido dig
 ---
 
 ### Brief Profile.
-I am a proactive person with large capacity to assume great challenges and take them happy terms. I have multiple knowledge in different multimedia fields; I like to be ambitious and passionate in what I do; hence I worry try hard so that all get out the more perfect as possible. I have ease to be creative and the capacity to assume leadership when I am assigning the roll or when the different projects they demand it, like also I can abide suggestions or orders, hence I can lead, integrate or abide in any collaborative work of multimedia projects.    
+I am a proactive person with large capacity to assume great challenges and take them happy terms. I have multiple knowledge in different multimedia fields; I like to be ambitious and passionate in what I do; hence I worry try hard so that all get out the more perfect as possible. I have ease to be creative and the capacity to assume leadership when I am assigning the roll or when the different projects they demand it, like also I can abide suggestions or orders, hence I can lead, integrate or abide in any collaborative work of multimedia projects. 
+
+
+---
+---
+
+## 👨‍💻 Ingeniería Multimedia
+
+**Ubicación:** Anolaima, Cundinamarca  
+
+---
+
+### 👤 Información Personal 
+<img src="/Johan Deivid Avila Galvis/Photo Johan.jpg" alt="Foto de Johan Deivid Avila Galvis" width="800" height="600" loading="lazy">
+
+- **Nombre completo:** Johan Deivid Avila Galvis  
+- **Rol en la industria:** Ingeniería Multimedia  
+- **Ubicación:** Anolaima, Cundinamarca  
+
+---
+
+### 🕹️ Sobre mí  
+Soy estudiante de **Ingeniería Multimedia**, apasionado por la animación y el diseño en **Adobe Illustrator**.  
+Me motiva combinar creatividad y tecnología para desarrollar proyectos que transmitan emociones y conocimiento.  
+
+Mi interés principal está en la **música clásica** y mi objetivo es culminar exitosamente mi carrera, enfocándome en la creación de **experiencias interactivas** y **contenidos multimedia** que faciliten la comprensión y el disfrute de este género musical.  
+
 
 
 # 213027_-16_5-GALLOS-FINOS
