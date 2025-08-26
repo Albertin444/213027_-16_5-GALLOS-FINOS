@@ -69,7 +69,8 @@ I am a proactive person with large capacity to assume great challenges and take 
 ---
 
 ### 👤 Información Personal 
-<img src="/Johan Deivid Avila Galvis/Photo Johan.jpeg" alt="Foto de Johan Deivid Avila Galvis" width="800" height="600">
+<img src="/Johan Deivid Avila Galvis/Photo_Johan.jpeg" alt="Foto de Johan Deivid Avila Galvis" width="800" height="600">
+
 
 - **Nombre completo:** Johan Deivid Avila Galvis  
 - **Rol en la industria:** Ingeniería Multimedia  
