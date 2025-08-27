@@ -90,4 +90,31 @@ Mi interés principal está en la **música clásica** y mi objetivo es culminar
 This repository is for the creation of a video game, for the Unad Video Game Programming course
 
 
+---
 
+### Perfil 
+✨_Nancy Dayana Ortiz Pardo_✨
+
+=======
+
+<img src="/Nancy Dayana Ortiz Pardo/PhotoNancy.jpeg" alt="Photo By Nancy" with="700" height="600" loading="lazy">
+
+---
+
+**Ubicación: Gacheta - Cundinamarca** 🏠
+
+=======
+
+<img src="/Nancy Dayana Ortiz Pardo/ImageGacheta.jpeg" alt="Photo By Nancy" with="500" height="550" loading="lazy">
+
+---
+
+### Acerca de mí 🙋
+
+=======
+
+Soy una persona que le llama mucho la atención todo lo que tiene ver con el diseño y desarrollo de contenidos y sistemas digitales interactivos, tengo conocimiento en el desarrollo de sitios web, me gusta ser creativa en la integración de elementos como textos, gráficos, sonidos y vídeos, me considero una persona que simplemente le gusta experimentar situaciones y adquirir nuevos conocimientos, demostrando deseo de explorar y aprender con relación a crear medios digitales.💻
+
+=======
+
+---
