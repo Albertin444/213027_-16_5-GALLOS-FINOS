@@ -95,7 +95,7 @@ This repository is for the creation of a video game, for the Unad Video Game Pro
 ### Perfil 
 ✨_Nancy Dayana Ortiz Pardo_✨
 
-=======
+
 
 <img src="/Nancy Dayana Ortiz Pardo/PhotoNancy.jpeg" alt="Photo By Nancy" with="700" height="600" loading="lazy">
 
@@ -103,7 +103,7 @@ This repository is for the creation of a video game, for the Unad Video Game Pro
 
 **Ubicación: Gacheta - Cundinamarca** 🏠
 
-=======
+
 
 <img src="/Nancy Dayana Ortiz Pardo/ImageGacheta.jpeg" alt="Photo By Nancy" with="500" height="550" loading="lazy">
 
@@ -111,10 +111,10 @@ This repository is for the creation of a video game, for the Unad Video Game Pro
 
 ### Acerca de mí 🙋
 
-=======
+
 
 Soy una persona que le llama mucho la atención todo lo que tiene ver con el diseño y desarrollo de contenidos y sistemas digitales interactivos, tengo conocimiento en el desarrollo de sitios web, me gusta ser creativa en la integración de elementos como textos, gráficos, sonidos y vídeos, me considero una persona que simplemente le gusta experimentar situaciones y adquirir nuevos conocimientos, demostrando deseo de explorar y aprender con relación a crear medios digitales.💻
 
-=======
+
 
 ---
