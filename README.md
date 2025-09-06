@@ -109,6 +109,8 @@ Mi interés principal está en la **música clásica** y mi objetivo es culminar
 
 Soy una persona que le llama mucho la atención todo lo que tiene ver con el diseño y desarrollo de contenidos y sistemas digitales interactivos, tengo conocimiento en el desarrollo de sitios web, me gusta ser creativa en la integración de elementos como textos, gráficos, sonidos y vídeos, me considero una persona que simplemente le gusta experimentar situaciones y adquirir nuevos conocimientos, demostrando deseo de explorar y aprender con relación a crear medios digitales.💻
 
+ Nancy
+
 ---
 
 ### Perfil 
@@ -129,6 +131,7 @@ Laura Milena Caraballo Urrego
 
 Soy estudiante de ingenieria multimedia, me gusta el area de producción audiovisual y diseño sonoro, siento que son temas que exploran la profundidad de la expresión fuera del dialogo en si. Me considero una persona sencilla y abierta a aprender nuevas cosas y de las experiencias. 
 
+ main
 
 
 ---
