@@ -87,7 +87,7 @@ Mi interés principal está en la **música clásica** y mi objetivo es culminar
 ---
 
 ### Perfil 
-✨_Nancy Dayana Ortiz Pardo_✨
+✨_2025 Nancy Dayana Ortiz Pardo_✨
 
 
 
