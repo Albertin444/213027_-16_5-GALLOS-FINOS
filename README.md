@@ -69,9 +69,7 @@ I am a proactive person with large capacity to assume great challenges and take 
 ---
 
 ### 👤 Información Personal 
-<img src="/Johan Deivid Avila Galvis/Photo_Johan.jpeg" alt="Foto de Johan Deivid Avila Galvis" width="800" height="600">
-
-
+<img src="/Johan Deivid Avila Galvis/PhotoJohan.png" alt="Foto de Johan Deivid Avila Galvis" width="800" height="600" loading="lazy">
 - **Nombre completo:** Johan Deivid Avila Galvis  
 - **Rol en la industria:** Ingeniería Multimedia  
 - **Ubicación:** Anolaima, Cundinamarca  
@@ -84,10 +82,6 @@ Me motiva combinar creatividad y tecnología para desarrollar proyectos que tran
 
 Mi interés principal está en la **música clásica** y mi objetivo es culminar exitosamente mi carrera, enfocándome en la creación de **experiencias interactivas** y **contenidos multimedia** que faciliten la comprensión y el disfrute de este género musical.  
 
-
-
-# 213027_-16_5-GALLOS-FINOS
-This repository is for the creation of a video game, for the Unad Video Game Programming course
 
 
 ---
@@ -115,6 +109,29 @@ This repository is for the creation of a video game, for the Unad Video Game Pro
 
 Soy una persona que le llama mucho la atención todo lo que tiene ver con el diseño y desarrollo de contenidos y sistemas digitales interactivos, tengo conocimiento en el desarrollo de sitios web, me gusta ser creativa en la integración de elementos como textos, gráficos, sonidos y vídeos, me considero una persona que simplemente le gusta experimentar situaciones y adquirir nuevos conocimientos, demostrando deseo de explorar y aprender con relación a crear medios digitales.💻
 
+ Nancy
+
+---
+
+### Perfil 
+Laura Milena Caraballo Urrego 
+![Laura](https://github.com/user-attachments/assets/50331b63-a67c-49d6-b33c-8da002419f17)"
+
+
+
+- **Nombre completo:** Laura Milena Caraballo Urrego  
+- **Rol en la industria:** Ingeniería Multimedia  
+- **Ubicación:** Ubalá, Cundinamarca
+
+---
+
+### Acerca de mí 🙋
+
+
+
+Soy estudiante de ingenieria multimedia, me gusta el area de producción audiovisual y diseño sonoro, siento que son temas que exploran la profundidad de la expresión fuera del dialogo en si. Me considero una persona sencilla y abierta a aprender nuevas cosas y de las experiencias. 
+
+ main
 
 
 ---
