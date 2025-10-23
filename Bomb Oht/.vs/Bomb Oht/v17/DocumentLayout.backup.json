@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Efect_Audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Efect_Audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Game_Time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Game_Time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Efect_Bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Efect_Bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,12 @@
               "RelativeDocumentMoniker": "Assets\\Scenes\\Efect_Audio.cs",
               "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Efect_Audio.cs",
               "RelativeToolTip": "Assets\\Scenes\\Efect_Audio.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T04:58:45.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T04:58:45.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Game_Time.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Game_Time.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Game_Time.cs",
@@ -51,7 +49,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Efect_Bomba.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Efect_Bomba.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Efect_Bomba.cs",
@@ -59,8 +57,7 @@
               "RelativeToolTip": "Assets\\Scenes\\Efect_Bomba.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T02:36:34.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T02:36:34.129Z"
             }
           ]
         }
