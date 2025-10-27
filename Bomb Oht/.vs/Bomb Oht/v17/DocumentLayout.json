@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\albertin444\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\nancyinterface\\scripts\\countergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\nancyinterface\\scripts\\countergame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\nancyinterface\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\nancyinterface\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\nancyinterface\\scripts\\function_scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\nancyinterface\\scripts\\function_scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\nancyinterface\\scripts\\initialmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\nancyinterface\\scripts\\initialmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\albertin444\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\assets\\scenes\\albertin444\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,32 +47,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Game_Time.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
-              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Music.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Music.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Music.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Music.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:09:01.479Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Efect_Audio.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
-              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:08:59.456Z",
+              "WhenOpened": "2025-10-27T00:23:34.29Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "countergame.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\countergame.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\countergame.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\countergame.cs",
+              "RelativeToolTip": "Assets\\Scenes\\NancyInterface\\Scripts\\countergame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T00:09:56.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pausemenu.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\pausemenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\pausemenu.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\pausemenu.cs",
+              "RelativeToolTip": "Assets\\Scenes\\NancyInterface\\Scripts\\pausemenu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:58:36.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Function_scene.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\Function_scene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\Function_scene.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\Function_scene.cs",
+              "RelativeToolTip": "Assets\\Scenes\\NancyInterface\\Scripts\\Function_scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:15:06.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "initialmenu.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\initialmenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\initialmenu.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\initialmenu.cs",
+              "RelativeToolTip": "Assets\\Scenes\\NancyInterface\\Scripts\\initialmenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T22:24:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game_Time.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:09:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Efect_Audio.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:08:59.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Efect_Bomba.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
@@ -60,8 +139,7 @@
               "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T21:08:57.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T21:08:57.413Z"
             }
           ]
         }
