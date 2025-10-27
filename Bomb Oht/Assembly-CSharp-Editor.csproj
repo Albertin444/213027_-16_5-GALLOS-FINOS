@@ -1318,6 +1318,10 @@
       <Project>{9987E812-EEAE-58AF-6D54-AE7504CC8030}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
+    <ProjectReference Include="kTools.Mirrors.Runtime.csproj">
+      <Project>{AEE3D425-6407-159A-2441-22B11BA81F04}</Project>
+      <Name>kTools.Mirrors.Runtime</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -169,7 +169,7 @@ ParticleSystem:
     startSpeed:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 3.69
+      scalar: 32
       minScalar: 5
       maxCurve:
         serializedVersion: 2
@@ -287,7 +287,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 2.22
+      scalar: 20.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -5120,7 +5120,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 6.35
+      scalar: 36.98
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -9675,16 +9675,28 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7.2756
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7.2756
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7.2756
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.65
+      value: 1177.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -101
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.99
+      value: -1129.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
       propertyPath: m_LocalRotation.w
@@ -9717,6 +9729,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
       propertyPath: m_Name
       value: Bomb on
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: febb4e1b550ff21479cd14defbed9898, type: 3}
+      propertyPath: m_TagString
+      value: BOM
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

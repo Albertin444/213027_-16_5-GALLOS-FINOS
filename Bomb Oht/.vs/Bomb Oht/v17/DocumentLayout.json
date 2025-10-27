@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\mounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\mounters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,6 +51,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mounters.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Mounters.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Mounters.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Mounters.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Mounters.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T01:43:29.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Music.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Music.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Music.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "countergame.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\countergame.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\countergame.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "pausemenu.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\pausemenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\pausemenu.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Function_scene.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\Function_scene.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\Function_scene.cs",
@@ -95,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "initialmenu.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\NancyInterface\\Scripts\\initialmenu.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\NancyInterface\\Scripts\\initialmenu.cs",
@@ -107,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Game_Time.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Efect_Audio.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Efect_Bomba.cs",
               "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
               "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
