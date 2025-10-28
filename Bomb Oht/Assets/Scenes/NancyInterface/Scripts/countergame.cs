@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 //A class called CounterGame is created. It inherits from MonoBehaviour.
@@ -13,9 +14,18 @@ public class countergame : MonoBehaviour
     private float currenttime;
     private bool activatedtime = false;
 
+    [Header("Referencia del tiempo del juego")]
+    public Game_Time gameTimeScript;
+
     //Call the activatetimer() method to start the timer from the beginning
     private void Start()
     {
+        maximumtime=gameTimeScript.GameTimeCompleted;
+        activatetimer();
+    }
+    public void Resetcontador()
+    {
+        maximumtime = gameTimeScript.GameTimeCompleted;
         activatetimer();
     }
 
@@ -65,5 +75,31 @@ public class countergame : MonoBehaviour
     public void deactivatetimer()
     {
         changetimer(false);
+
     }
+
+    //Public method that pauses the game (can be called from a button).
+    public void pause()
+    {
+        //Stops the game time (everything freezes).
+        Time.timeScale = 0f;
+    }
+
+    //Method that resumes the game.
+    public void resume()
+    {
+        //Reactivates the normal flow of time.
+        Time.timeScale = 1f;
+
+    }
+    //Method to reset the character selection panel (does not reload the scene).
+    public void restart()
+    {
+        //Resets time.
+        Time.timeScale = 1f;
+        // Restart the timer.
+
+        activatetimer();
+    }
+
 }
