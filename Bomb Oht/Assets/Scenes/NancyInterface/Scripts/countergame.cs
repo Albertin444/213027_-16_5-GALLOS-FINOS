@@ -23,6 +23,11 @@ public class countergame : MonoBehaviour
         maximumtime=gameTimeScript.GameTimeCompleted;
         activatetimer();
     }
+    public void Resetcontador()
+    {
+        maximumtime = gameTimeScript.GameTimeCompleted;
+        activatetimer();
+    }
 
     //Only update the timer if activatedtime == true, preventing it from continuing to run when stopped.
     private void Update()

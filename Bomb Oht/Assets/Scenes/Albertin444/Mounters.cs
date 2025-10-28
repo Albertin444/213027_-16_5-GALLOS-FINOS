@@ -81,7 +81,6 @@ public class Mounters : MonoBehaviour
         int randomIndex = Random.Range(0, possibleTargets.Count);
         currentTarget = possibleTargets[randomIndex];
 
-        Debug.Log($"{gameObject.name} switched target to: {currentTarget.name}");
     }
 
     void MoveTowardsTarget()
