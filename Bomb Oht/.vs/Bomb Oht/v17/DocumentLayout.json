@@ -1,26 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\",
+  "WorkspaceRootPath": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\rcc_d\\documents\\github\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\gustavo\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gustavo\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\game_time.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\rcc_d\\documents\\github\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\gustavo\\scripts\\npcscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gustavo\\scripts\\npcscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\efect_audio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\rcc_d\\documents\\github\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\gustavo\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gustavo\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\rcc_d\\documents\\github\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\gustavo\\scripts\\bomscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gustavo\\scripts\\bomscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\rcc_d\\documents\\github\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\gustavo\\scripts\\bombmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\gustavo\\scripts\\bombmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|c:\\users\\alber\\documents\\unad\\programaci\u00F3n de videojuegos\\213027_-16_5-gallos-finos\\bomb oht\\assets\\scenes\\albertin444\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9987E812-EEAE-58AF-6D54-AE7504CC8030}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\albertin444\\efect_bomba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerScript.cs",
-              "DocumentMoniker": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\PlayerScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Gustavo\\Scripts\\PlayerScript.cs",
-              "ToolTip": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\PlayerScript.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Gustavo\\Scripts\\PlayerScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Title": "Game_Time.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Game_Time.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:32:38.319Z",
+              "WhenOpened": "2025-10-23T21:09:01.479Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NPCScript.cs",
-              "DocumentMoniker": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\NPCScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Gustavo\\Scripts\\NPCScript.cs",
-              "ToolTip": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\NPCScript.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Gustavo\\Scripts\\NPCScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoBAAAAAAAAAAAAAA==",
+              "Title": "Efect_Audio.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Efect_Audio.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:31:51.507Z",
+              "WhenOpened": "2025-10-23T21:08:59.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Gustavo\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Gustavo\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALgAAAAAAAAAAAAAAA==",
+              "Title": "Efect_Bomba.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
+              "ToolTip": "C:\\Users\\alber\\Documents\\Unad\\Programaci\u00F3n de Videojuegos\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Albertin444\\Efect_Bomba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:30:53.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BomScript.cs",
-              "DocumentMoniker": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\BomScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Gustavo\\Scripts\\BomScript.cs",
-              "ToolTip": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\BomScript.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Gustavo\\Scripts\\BomScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:30:08.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BombManager.cs",
-              "DocumentMoniker": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\BombManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Gustavo\\Scripts\\BombManager.cs",
-              "ToolTip": "C:\\Users\\rcc_d\\Documents\\GitHub\\213027_-16_5-GALLOS-FINOS\\Bomb Oht\\Assets\\Scenes\\Gustavo\\Scripts\\BombManager.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Gustavo\\Scripts\\BombManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-28T00:29:32.412Z",
+              "WhenOpened": "2025-10-23T21:08:57.413Z",
               "EditorCaption": ""
             }
           ]
