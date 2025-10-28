@@ -517,6 +517,7 @@ MonoBehaviour:
   cooldownLanzamiento: 1
   moveSpeed: 5
   objetivoSeleccionado: {fileID: 0}
+  tiempoCambioObjetivo: 3
 --- !u!1 &215136995
 GameObject:
   m_ObjectHideFlags: 0
@@ -625,6 +626,67 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 215136995}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1001 &238634621
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 34.29077
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.5558319
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.9606612
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1204419119089559570, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627817426207070649, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: m_Name
+      value: Audio Bomba
+      objectReference: {fileID: 0}
+    - target: {fileID: 8375943322089236415, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
+      propertyPath: gameTimeScript
+      value: 
+      objectReference: {fileID: 312127005}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2c02d1ec38745824a908583acffc2ef4, type: 3}
 --- !u!1 &240335283
 GameObject:
   m_ObjectHideFlags: 0
@@ -815,6 +877,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   personajes: []
   personajeSeleccionado: {fileID: 0}
+  crnometro: {fileID: 0}
+  puntoCreacionBomba: {fileID: 0}
 --- !u!114 &312127011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3561,6 +3625,7 @@ MonoBehaviour:
   cooldownLanzamiento: 1
   moveSpeed: 5
   objetivoSeleccionado: {fileID: 0}
+  tiempoCambioObjetivo: 3
 --- !u!54 &1245850746
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -4090,6 +4155,7 @@ MonoBehaviour:
   cooldownLanzamiento: 1
   moveSpeed: 5
   objetivoSeleccionado: {fileID: 0}
+  tiempoCambioObjetivo: 3
 --- !u!54 &1462271380
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -5813,7 +5879,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7646859196813018848, guid: 29511cca37ad4554a9553fb86fab39a2, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1182
+      value: 1872
       objectReference: {fileID: 0}
     - target: {fileID: 7646859196813018848, guid: 29511cca37ad4554a9553fb86fab39a2, type: 3}
       propertyPath: m_LocalPosition.y
@@ -5973,6 +6039,7 @@ SceneRoots:
   - {fileID: 2137496299}
   - {fileID: 8448245187939350541}
   - {fileID: 1759349691}
+  - {fileID: 238634621}
   - {fileID: 240335286}
   - {fileID: 2118991982}
   - {fileID: 692838496}
