@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{9939E0CB-07A7-6D31-3997-C98CA9023764}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kTools.Mirrors.Runtime", "kTools.Mirrors.Runtime.csproj", "{AEE3D425-6407-159A-2441-22B11BA81F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kTools.Mirrors.Editor", "kTools.Mirrors.Editor.csproj", "{284F1F4C-57CA-F47C-A4A6-C2E2056EC974}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{9939E0CB-07A7-6D31-3997-C98CA9023764}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9939E0CB-07A7-6D31-3997-C98CA9023764}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9939E0CB-07A7-6D31-3997-C98CA9023764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEE3D425-6407-159A-2441-22B11BA81F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE3D425-6407-159A-2441-22B11BA81F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE3D425-6407-159A-2441-22B11BA81F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE3D425-6407-159A-2441-22B11BA81F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{284F1F4C-57CA-F47C-A4A6-C2E2056EC974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{284F1F4C-57CA-F47C-A4A6-C2E2056EC974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{284F1F4C-57CA-F47C-A4A6-C2E2056EC974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{284F1F4C-57CA-F47C-A4A6-C2E2056EC974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
