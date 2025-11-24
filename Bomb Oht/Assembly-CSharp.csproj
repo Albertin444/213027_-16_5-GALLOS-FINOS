@@ -74,7 +74,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scenes\Gustavo\Scripts\BomScript.cs" />
+=======
+>>>>>>> main
     <Compile Include="Assets\AureDevGames\Water Stylized Shader Orto &amp; Perspective Camera\Scripts\FloatingObject.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Game_Time.cs" />
     <Compile Include="Assets\Scenes\Gustavo\Scripts\GameManager.cs" />
@@ -88,7 +91,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Scenes\NancyInterface\Scripts\Function_scene.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Scenes\Gustavo\Scripts\BombManager.cs" />
+=======
+>>>>>>> main
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Script de Movimiento\CambiodeObjetivo.cs" />
