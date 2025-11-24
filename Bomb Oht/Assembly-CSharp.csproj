@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scenes\Albertin444\Music.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Scenes\Gustavo\Scripts\NPCScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Script de Movimiento\Player2.cs" />
     <Compile Include="Assets\Scenes\NancyInterface\Scripts\countergame.cs" />
@@ -73,8 +74,13 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+<<<<<<< HEAD
+    <Compile Include="Assets\Scenes\Gustavo\Scripts\BomScript.cs" />
+=======
+>>>>>>> main
     <Compile Include="Assets\AureDevGames\Water Stylized Shader Orto &amp; Perspective Camera\Scripts\FloatingObject.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Game_Time.cs" />
+    <Compile Include="Assets\Scenes\Gustavo\Scripts\GameManager.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Script de Movimiento\LanzamientoNPC.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Script de Movimiento\NPC2.cs" />
@@ -85,6 +91,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Scenes\NancyInterface\Scripts\Function_scene.cs" />
+<<<<<<< HEAD
+    <Compile Include="Assets\Scenes\Gustavo\Scripts\BombManager.cs" />
+=======
+>>>>>>> main
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\Scenes\Albertin444\Script de Movimiento\CambiodeObjetivo.cs" />
@@ -110,6 +120,7 @@
     <Compile Include="Assets\Scenes\Albertin444\Script de Movimiento\EfectoMoho.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+    <Compile Include="Assets\Scenes\Gustavo\Scripts\PlayerScript.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
