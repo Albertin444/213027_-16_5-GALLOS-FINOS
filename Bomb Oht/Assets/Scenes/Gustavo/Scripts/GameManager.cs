@@ -31,6 +31,15 @@ public class GameManager : MonoBehaviour
     private float timer;
     private bool roundRunning = false;
 
+    public GameObject explosionPrefab;
+    public GameObject monstruoPrefab;
+
+    [Header("Tiempo global")]
+    public Game_Time gameTime;
+    public GameObject bomb; // referencia a la bomba actual
+    public AudioSource Convertision_a_moutnro; 
+
+
     void Awake()
     {
         if (Instance == null) Instance = this;
@@ -39,6 +48,9 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
+        if (gameTime == null)
+            gameTime = FindObjectOfType<Game_Time>();
+
         timer = roundDuration;
         UpdateTimerUI();
 
@@ -74,7 +86,7 @@ public class GameManager : MonoBehaviour
     public void EndRound()
     {
         roundRunning = false;
-        Time.timeScale = 0f;
+        Time.timeScale = 1f;
 
         GameObject loser = BombManager.Instance?.currentOwner;
 
@@ -98,6 +110,21 @@ public class GameManager : MonoBehaviour
                 Debug.Log("[GameManager] Ronda terminada: dueño desconocido perdió.");
         }
 
+        
+        SpawnExplosionAndMonster(loser);
+
+        // Reiniciar el tiempo
+        // Reiniciar timer interno del GameManager
+        timer = roundDuration;
+        roundRunning = true;
+
+        // 🔥 Reiniciar tiempo del sistema global Game_Time
+        if (gameTime != null)
+        {
+            gameTime.GameTime = gameTime.GameTimeCompleted;
+            gameTime.ResumeTimer();
+        }
+
         onRoundEnded?.Invoke(loser);
     }
 
@@ -112,6 +139,36 @@ public class GameManager : MonoBehaviour
         roundRunning = true;
         UpdateTimerUI();
     }
+    void SpawnExplosionAndMonster(GameObject loser)
+    {
+        if (loser == null) return;
+
+        Vector3 pos = loser.transform.position;
+
+        // Crear explosión
+        Instantiate(explosionPrefab, pos, Quaternion.identity);
+
+        // Crear monstruo
+        Instantiate(monstruoPrefab, pos, Quaternion.identity);
+        // 3. Obtener bomba real desde BombManager
+        GameObject bombaActual = BombManager.Instance.bomb.gameObject;
+
+
+        Convertision_a_moutnro.Play();
+        // 4. Soltar la bomba
+        if (bombaActual != null)
+            bombaActual.transform.parent = null;
+
+        // Destruir al perdedor
+        Destroy(loser);
+
+        // 🔥 Asignar nuevo dueño de la bomba
+        if (BombManager.Instance != null)
+        {
+            BombManager.Instance.AssignRandomOwner();
+        }
+    }
+
 
     void UpdateTimerUI()
     {

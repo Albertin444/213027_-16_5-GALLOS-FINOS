@@ -20,9 +20,23 @@ public class BombScript : MonoBehaviour
     private Collider col;
     private GameObject currentOwner;
     public GameObject lastOwner; // Necesario para evitar auto-impacto
+    public AudioSource nuevo_objetivo;
+    [Header("UI Effector")]
+    public GameObject uiEffector;   // arrastra aquí el objeto del Canvas
 
+
+    void UpdateUIEffector()
+    {
+        if (lastOwner == null) return;
+
+        if (lastOwner.CompareTag("Player"))
+            uiEffector.SetActive(true);     // activar UI
+        else
+            uiEffector.SetActive(false);    // desactivar UI
+    }
     void Awake()
     {
+        UpdateUIEffector();
         rbd = GetComponent<Rigidbody>();
         col = GetComponent<Collider>();
         // Modo de detección de colisión para mejor precisión de impacto
@@ -143,6 +157,8 @@ public class BombScript : MonoBehaviour
         if (hit.CompareTag("Player") || hit.CompareTag("NPC"))
         {
             currentCondition = hit.CompareTag("Player") ? Condition.OnPlayer : Condition.OnNPC;
+            nuevo_objetivo.Play();
+            UpdateUIEffector();
             onBombHit?.Invoke(hit);
             // ⚠️ La llamada a Adhere se realiza ahora en el script del Player/NPC
         }

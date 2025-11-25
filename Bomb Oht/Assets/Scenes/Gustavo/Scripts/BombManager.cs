@@ -17,6 +17,7 @@ public class BombManager : MonoBehaviour
     public float pickupRadius = 2f;
     private float pickupCooldown = 0f;
 
+
     void Awake()
     {
         if (Instance == null) Instance = this;
@@ -76,6 +77,7 @@ public class BombManager : MonoBehaviour
         GameObject chosen = options[Random.Range(0, options.Count)];
         SetBombOwner(chosen);
         Debug.Log($"🔥 Bomba asignada a: {chosen.name}");
+       
     }
 
     public void SetBombOwner(GameObject newOwner)
