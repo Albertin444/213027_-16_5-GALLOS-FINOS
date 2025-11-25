@@ -23,7 +23,7 @@ public class Mounters : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player");
 
         // Find all NPCs by tag and store them in a list
-        GameObject[] foundNPCs = GameObject.FindGameObjectsWithTag("NPC2");
+        GameObject[] foundNPCs = GameObject.FindGameObjectsWithTag("NPC");
         npcs.AddRange(foundNPCs);
 
         // Choose an initial target when the game starts
