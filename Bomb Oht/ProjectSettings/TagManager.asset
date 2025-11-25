@@ -7,6 +7,8 @@ TagManager:
   - NPC2
   - BOM
   - Mounter
+  - Bomb
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -19,9 +21,9 @@ TagManager:
   - Suimono_Water
   - Suimono_Depth
   - Suimono_Screen
-  - 
-  - 
-  - 
+  - Player
+  - Bomb
+  - NPC
   - 
   - 
   - 
