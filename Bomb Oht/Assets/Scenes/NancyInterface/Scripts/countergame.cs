@@ -95,6 +95,7 @@ public class countergame : MonoBehaviour
     //Method to reset the character selection panel (does not reload the scene).
     public void restart()
     {
+        Debug.Log("? COUNTERGAME RESTART ejecutado | maxTime = ");
         //Resets time.
         Time.timeScale = 1f;
         // Restart the timer.

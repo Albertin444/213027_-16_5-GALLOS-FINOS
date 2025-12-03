@@ -106,4 +106,17 @@ public class ControladorJuego : MonoBehaviour
             Debug.LogWarning("⚠️ No hay personajes restantes para asignar.");
         }
     }
+    public void EliminarDeLista(GameObject personaje)
+    {
+        if (personajes.Contains(personaje))
+        {
+            personajes.Remove(personaje);
+            Debug.Log("🗑️ Eliminado de la lista: " + personaje.name);
+        }
+        else
+        {
+            Debug.Log("❌ El personaje no estaba en la lista: " + personaje.name);
+        }
+    }
+
 }

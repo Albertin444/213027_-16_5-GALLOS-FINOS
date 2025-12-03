@@ -57,28 +57,31 @@ public class BombManager : MonoBehaviour
         }
     }
 
-    public void AssignRandomOwner()
+    public void AssignRandomOwner(GameObject excludedOwner = null)
     {
         List<GameObject> options = new();
 
-        if (player != null) options.Add(player.gameObject);
+        if (player != null && player.gameObject != excludedOwner)
+            options.Add(player.gameObject);
+
         foreach (var npc in npcList)
         {
-            if (npc != null && npc.gameObject != null)
+            if (npc != null && npc.gameObject != null && npc.gameObject != excludedOwner)
                 options.Add(npc.gameObject);
         }
 
         if (options.Count == 0)
         {
-            Debug.LogWarning("[BombManager] No hay entidades disponibles.");
+            Debug.LogWarning("[BombManager] No hay entidades disponibles para ser dueño.");
             return;
         }
 
         GameObject chosen = options[Random.Range(0, options.Count)];
         SetBombOwner(chosen);
-        Debug.Log($"🔥 Bomba asignada a: {chosen.name}");
-       
+
+        Debug.Log($"🔥 Bomba reasignada a: {chosen.name}");
     }
+
 
     public void SetBombOwner(GameObject newOwner)
     {
