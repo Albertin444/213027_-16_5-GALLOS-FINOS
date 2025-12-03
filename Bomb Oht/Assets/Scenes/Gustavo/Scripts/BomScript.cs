@@ -19,14 +19,19 @@ public class BombScript : MonoBehaviour
     private Rigidbody rbd;
     private Collider col;
     private GameObject currentOwner;
+    public BombManager bommanager;
     public GameObject lastOwner; // Necesario para evitar auto-impacto
     public AudioSource nuevo_objetivo;
     [Header("UI Effector")]
     public GameObject uiEffector;   // arrastra aquí el objeto del Canvas
 
-
+    private void Update()
+    {
+        UpdateUIEffector();
+    }
     void UpdateUIEffector()
     {
+        lastOwner=bommanager.currentOwner;
         if (lastOwner == null) return;
 
         if (lastOwner.CompareTag("Player"))

@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System;
+using System.Collections;
+
 #if TMP_PRESENT
 using TMPro;
 #endif
@@ -37,7 +39,11 @@ public class GameManager : MonoBehaviour
     [Header("Tiempo global")]
     public Game_Time gameTime;
     public GameObject bomb; // referencia a la bomba actual
-    public AudioSource Convertision_a_moutnro; 
+    public AudioSource Convertision_a_moutnro;
+
+    public countergame cOuntergame;
+    public AudioSource Conversión_mounter;
+    public ControladorJuego controladorJuego;
 
 
     void Awake()
@@ -131,43 +137,111 @@ public class GameManager : MonoBehaviour
     public void RestartRound()
     {
         Time.timeScale = 1f;
+ 
+
+        timer = roundDuration;
+        roundRunning = true;
+
+        // Primero restablece el tiempo global
+        gameTime.GameTime = gameTime.GameTimeCompleted;
+        gameTime.ResumeTimer();
+
+        // Ahora sí reinicia el contador visual
+        cOuntergame.restart();
+        Conversión_mounter.Play();  
 
         if (BombManager.Instance != null)
             BombManager.Instance.AssignRandomOwner();
 
-        timer = roundDuration;
-        roundRunning = true;
         UpdateTimerUI();
+
+
     }
+
+
     void SpawnExplosionAndMonster(GameObject loser)
     {
         if (loser == null) return;
 
         Vector3 pos = loser.transform.position;
 
-        // Crear explosión
         Instantiate(explosionPrefab, pos, Quaternion.identity);
-
-        // Crear monstruo
         Instantiate(monstruoPrefab, pos, Quaternion.identity);
-        // 3. Obtener bomba real desde BombManager
-        GameObject bombaActual = BombManager.Instance.bomb.gameObject;
 
-
-        Convertision_a_moutnro.Play();
-        // 4. Soltar la bomba
+        // obtener referencia segura a la bomba actual
+        GameObject bombaActual = BombManager.Instance?.bomb?.gameObject;
         if (bombaActual != null)
-            bombaActual.transform.parent = null;
-
-        // Destruir al perdedor
-        Destroy(loser);
-
-        // 🔥 Asignar nuevo dueño de la bomba
-        if (BombManager.Instance != null)
         {
-            BombManager.Instance.AssignRandomOwner();
+            // 1) asegurarnos que la bomba deje de ser hija del perdedor AHORA
+            bombaActual.transform.SetParent(null, true);
+
+            // 2) moverla a una posición segura (evita que esté dentro del cuerpo)
+            Vector3 safePos = loser.transform.position + Vector3.up * 2f;
+            bombaActual.transform.position = safePos;
+
+            // 3) marcar bomba como en el suelo / libre
+            var bombScript = BombManager.Instance.bomb;
+            if (bombScript != null)
+                bombScript.currentCondition = BombScript.Condition.OnFloor;
         }
+
+        // 4) quitar dueño actual en el manager (ya no hay owner)
+        BombManager.Instance.ClearOwner();
+
+        // 5) arrancar la corrutina que reasigna y destruye (pasándole la referencia a la bomba)
+        StartCoroutine(DestroyAndReassign(loser, bombaActual));
     }
+
+    IEnumerator DestroyAndReassign(GameObject loser, GameObject bombaActual)
+    {
+        // espera un frame para garantizar que Unity procesó SetParent(null)
+        yield return null;
+
+        // reasegurar que la bomba no sea hija; (protección extra)
+        if (bombaActual != null)
+        {
+            bombaActual.transform.SetParent(null, true);
+
+            // si tienes Collider, podrías temporalmente ignorar colisión con el loser
+            Collider bombCol = bombaActual.GetComponent<Collider>();
+            Collider loserCol = loser.GetComponent<Collider>();
+            if (bombCol != null && loserCol != null)
+                Physics.IgnoreCollision(bombCol, loserCol, true);
+        }
+
+        // 1) reasignar bomba a un nuevo dueño que NO sea el perdedor
+        BombManager.Instance.AssignRandomOwner(loser);
+
+        // 2) desactivar el CharacterController del perdedor para evitar que siga recogiendo o colisionando
+        CharacterController cc = loser.GetComponent<CharacterController>();
+        if (cc != null)
+            cc.enabled = false;
+
+        // 3) opcional: desactivar también colliders del perdedor (si quieres máxima seguridad)
+        Collider[] cols = loser.GetComponentsInChildren<Collider>();
+        foreach (var c in cols)
+            c.enabled = false;
+
+        // 4) si antes ignoramos la colisión, reactívala (después de un frame adicional)
+        yield return null;
+        if (bombaActual != null)
+        {
+            Collider bombCol2 = bombaActual.GetComponent<Collider>();
+            Collider loserCol2 = loser.GetComponent<Collider>();
+            if (bombCol2 != null && loserCol2 != null)
+                Physics.IgnoreCollision(bombCol2, loserCol2, false);
+        }
+
+        // 5) finalmente destruir al perdedor
+controladorJuego.EliminarDeLista(loser);
+        Destroy(loser);
+        
+
+        // 6) reiniciar la ronda
+        RestartRound();
+    }
+
+
 
 
     void UpdateTimerUI()
